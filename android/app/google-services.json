@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687965359186",
+    "firebase_url": "https://membership-7c209.firebaseio.com",
+    "project_id": "membership-7c209",
+    "storage_bucket": "membership-7c209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687965359186:android:4b45c47de7e9c9ea",
+        "android_client_info": {
+          "package_name": "com.flazhost.membership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687965359186-ij8isrd6toli4teo51aj9dpbg1pofee5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1uJrj1lmVGLvqS2t9V3Y9p8Be8sGMu9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687965359186-ij8isrd6toli4teo51aj9dpbg1pofee5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
